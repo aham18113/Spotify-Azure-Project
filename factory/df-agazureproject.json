@@ -1,0 +1,9 @@
+{
+	"name": "df-agazureproject",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5014e15e-9dc0-41e9-bf59-9b06285252ed",
+		"tenantId": "c8624c4a-076d-4a28-bc8a-5a11c3b99a02"
+	}
+}
