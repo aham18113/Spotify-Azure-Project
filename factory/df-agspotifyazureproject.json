@@ -1,0 +1,9 @@
+{
+	"name": "df-agspotifyazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de53f0a8-0dfb-4326-9692-fa62297496bd",
+		"tenantId": "04e8677e-c989-47b9-8619-d83d5a5f6c67"
+	}
+}
