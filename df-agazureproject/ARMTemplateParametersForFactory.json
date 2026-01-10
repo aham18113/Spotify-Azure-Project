@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-agazureproject"
+		},
+		"azure_datalake_accountKey": {
+			"value": ""
+		},
+		"azure_sql_password": {
+			"value": ""
+		},
+		"azure_datalake_properties_typeProperties_url": {
+			"value": "https://storageagspotifyazure.dfs.core.windows.net/"
+		},
+		"azure_sql_properties_typeProperties_server": {
+			"value": "agspotifyazureserver.database.windows.net"
+		},
+		"azure_sql_properties_typeProperties_database": {
+			"value": "db-agspotifyazure"
+		},
+		"azure_sql_properties_typeProperties_userName": {
+			"value": "aham18113"
+		}
+	}
+}
