@@ -60,13 +60,13 @@ An end-to-end data engineering project on **Microsoft Azure** that ingests music
 - Microsoft Azure
   - Azure Data Factory (ADF)
   - Azure Data Lake Storage Gen2 (ADLS)
-  - Azure SQL (optional serving)
-  - Azure Logic Apps (optional: auth/token refresh / scheduling)
+  - Azure SQL
+  - Azure Logic Apps
 - Azure Databricks
   - PySpark
   - Auto Loader
   - Delta Lake
-  - Delta Live Tables / Lakeflow Declarative Pipelines
+  - Delta Live Tables/Lakeflow Declarative Pipelines
   - Unity Catalog
 - Data formats: JSON, Parquet, Delta
 - CI/CD: GitHub Actions, Databricks Asset Bundles (`databricks.yml`)
